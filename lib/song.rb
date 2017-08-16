@@ -7,3 +7,5 @@ class Song < InteractiveRecord
   end
 
 end
+
+active_record_is_great = true
